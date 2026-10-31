@@ -2,7 +2,7 @@
 
 Hello,
 
-Your new website is live at https://lagos-tech-mixer-yourname.netlify.app. It's one fast, phone-friendly page with your story and timeline, this year's keynote speaker, a photo gallery, sponsorship levels, a registration form, venue and parking details with a map, and a contact form. A live countdown at the top shows how long is left until the event.
+Your new website is live at https://lagos-tech-mixer-2026.netlify.app. It's one fast, phone-friendly page with your story and timeline, this year's keynote speaker, a photo gallery, sponsorship levels, a registration form, venue and parking details with a map, and a contact form. A live countdown at the top shows how long is left until the event.
 
 **Registrations and messages:** every form submission is saved in your Netlify dashboard under **Forms** (one list for "registration", one for "contact") and is also emailed to you as it comes in. You can download either list as a spreadsheet (CSV) at any time.
 
